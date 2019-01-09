@@ -75,7 +75,7 @@ public class FirstTest extends AppCompatActivity {
     }
     void showDialog(){
         AlertDialog.Builder builder1 = new AlertDialog.Builder(this);
-        builder1.setMessage("Write your message here.");
+        builder1.setMessage("กรุณาเลือกคำตอบ");
         builder1.setCancelable(true);
 
         builder1.setPositiveButton(
