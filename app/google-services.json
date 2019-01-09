@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "887415705341",
+    "firebase_url": "https://colorblindapp01-befb2.firebaseio.com",
+    "project_id": "colorblindapp01-befb2",
+    "storage_bucket": "colorblindapp01-befb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887415705341:android:c71b297e96061aa3",
+        "android_client_info": {
+          "package_name": "com.example.kittaphornj.colorblind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887415705341-nu0b19tmfahaqjkljeqf6je1euqgb5d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kittaphornj.colorblind",
+            "certificate_hash": "32fbd0c8c54d6f3c17b8cf22c41d48c985b9f752"
+          }
+        },
+        {
+          "client_id": "887415705341-iv71l7k0skhmsmj4mp2urafmebk97drh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu84XAWj0ht3exAi-GRcpIptoFOgvHOMo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887415705341-iv71l7k0skhmsmj4mp2urafmebk97drh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
